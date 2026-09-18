@@ -1,0 +1,21 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "FdnReverb",
+	"origin" : "FdnReverb.vst",
+	"type" : "VST",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "FdnReverb.vst",
+		"plugindisplayname" : "FdnReverb",
+		"pluginsavedname" : "/Library/Audio/Plug-Ins/VST/IEM/FdnReverb.vst",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"blob" : "678.CMlaKA....fQPMDZ....AXDYRUF.AHPA....A........................................HfZVMjLgDl....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOFQlaRUlckImX9vCTAIUPMARZj0iHjUFagkGSk41YzglHfXWXrUWY8HxLv3BLh7hO7.UPRETSfjFY8HBYxk2UkQmHfXWXrUWY8HBLtPCL4jSN4jSN1PiLybiLwLiHu3COPEjTA0DHoQVOhXVXjUVRtQUZsUlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXFYtMUZ5UlHfXWXrUWY8HhLt.iHu3COPEjTA0DHoQVOhfVZmg1P0Q2alYlHfXWXrUWY8HhL3TCLt.iHu3COPEjTA0DHoQVOhfVZmg1Qgklah.hcgwVck0iHsPiK0HxK9vCTAIUPMARZj0iHnk1YnEkHfXWXrUWY8HBLtPSN4jSN4jyMvDSN2XyM2XiHu3COPEjTA0DHoQVOhv1a2MTcz8lYlIBH1EFa0UVOhDCL03BLh7hO7.UPRETSfjFY8HBauc2Qgklah.hcgwVck0iHsDiLtTSN4jSN3PyMzDiLw.SNh7hO7.UPRETSfjFY8HBaucWTh.hcgwVck0iHv3BM4jSN4jSN2.SL4biM2biMh7hO7.UPRETSfjFY8HhbkYGUo0VYh.hcgwVck0iH43BLh7hO77zTCMzatYVZmAhTkMVYoYWYxA0axQWOhzRLh.xTk4FYkIWRP0iHh.xTk4FYkIGTuIGc8HRKwHBHSUlajUlbOM0PAQFYxU1by0iHuXDYtIUY1Ulbh8hHfLUYtQVYxkjazUlb1EFa8HRLv.iHu3COuXDYtIUY1Ulbh4C."
+	}
+
+}

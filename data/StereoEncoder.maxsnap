@@ -1,0 +1,21 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "StereoEncoder",
+	"origin" : "StereoEncoder.vst",
+	"type" : "VST",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "StereoEncoder.vst",
+		"plugindisplayname" : "StereoEncoder",
+		"pluginsavedname" : "/Library/Audio/Plug-Ins/VST/IEM/StereoEncoder.vst",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"blob" : "662.CMlaKA....fQPMDZ....ALEcE4F.APPA....A........................................HfVVMjLgDk....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOSQWYxU1aE41XuQVYx4COPEjTA0DHoQVOhDldo0VczglHfXWXrUWY8HRK2PiKxPCLv.SMzjyLwXCMvXiHu3COPEjTA0DHoQVOhTFakYWXzk1atIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHnk1YnEUcgwVZzkmHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOh7lbjUlbSUFczklamIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHwcmHfXWXrUWY8HBLtbSN2.CLv.SMvTCMzbyL3fiHu3COPEjTA0DHoQVOhDGdh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRb4IBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHwomHfXWXrUWY8HRKv3hMvHSN4jSN3TiLwfCLzfSLh7hO7.UPRETSfjFY8HhbuwFah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRcyU1TNMCQh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HxcoQFcnIBH1EFa0UVOhXyLtPyMv.CLwHiLvbCLyDiLh7hO77zTCMzatYVZmAhTkMVYoYWYxA0axQWOhzRLh.xTk4FYkIWRP0iHh.xTk4FYkIGTuIGc8HRKwHBHSUlajUlbOM0PAQFYxU1by0iHuLEckIWYuUjai8FYkI2Kh.xTk4FYkIWRtQWYxYWXr0iHw.CLh7hO77xTzUlbk8VQtM1ajUlb9.."
+	}
+
+}
